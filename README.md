@@ -5,6 +5,7 @@ This project focuses on analyzing the Netflix Movies and TV Shows dataset using 
 The main objective of this project is to perform data cleaning, preprocessing, and exploratory data analysis (EDA) to extract meaningful insights from the dataset.
 
 **Key Features**
+
 ★ Data Cleaning and Preprocessing
 
 ★ Handling Missing Values
